@@ -98,6 +98,11 @@ For granular analysis of model predictions across specific condition-organ pairs
 *   Python 3.10+
 *   PyTorch 2.0+
 
+
+📜 Dataset Citation
+Dataset curated by Karim, Sifat Zina, "Abdominal Ultrasound Image Dataset for Organ Classification and Disease Detection" (2025). Research Data. 5. Mississippi State University.
+
+
 ### Installation
 Clone the repository and install the required dependencies:
 ```bash
