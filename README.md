@@ -88,6 +88,6 @@ For granular analysis of model predictions across specific condition-organ pairs
 ### Installation
 Clone the repository and install the required dependencies:
 ```bash
-git clone https://github.com/YourUsername/Ultrasound-MTL-Framework.git
+git clone https://github.com/proximaditya/Ultrasound-MTL-Framework.git
 cd Ultrasound-MTL-Framework
 pip install -r requirements.txt
