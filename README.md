@@ -1,7 +1,20 @@
 # Ultrasound-MTL-Framework
-# Multi-Task Learning Framework for Abdominal Ultrasound Analysis
+<br></br>
+<div align="center">
 
-**Live Inference Module:** [Hugging Face Space](https://huggingface.co/spaces/ProximAditya/Ultrasound-AI)
+# ⚕️ Multi-Task Learning Framework for Abdominal Ultrasound Analysis
+
+<a href="https://huggingface.co/spaces/ProximAditya/Ultrasound-AI">
+  <img src="https://img.shields.io/badge/🚀_Live_Inference_Demo-Test_the_AI_Here!-FF4B4B?style=for-the-badge&logo=huggingface&logoColor=white" alt="Live Demo" />
+</a>
+
+[![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
+
+</div>
+
+<br>
 
 ## Abstract
 This repository contains the implementation of a Multi-Task Learning (MTL) framework designed for the automated analysis of abdominal ultrasound images. Due to inherent speckle noise, low contrast, and operator dependency in ultrasound imaging, single-task convolutional networks often suffer from feature entanglement when simultaneously assessing structural anatomy and tissue pathology. 
